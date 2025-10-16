@@ -1,6 +1,6 @@
 Fraud Detection System
 
-nitors transactions in real-time, using intelligent rules to flag suspicious activity instantly. 
+Monitors transactions in real-time, using intelligent rules to flag suspicious activity instantly. 
 Keep your finances safe with role-based access and a clear, intuitive interface.
 
 Why Choose Our Platform?
