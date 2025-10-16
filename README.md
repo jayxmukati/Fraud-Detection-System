@@ -4,9 +4,10 @@ Fraud Detection System
   Keep your finances safe with role-based access and a clear, intuitive interface.
 
   Why Choose Our Platform?
-    Real-time Monitoring
-    Role-Based Access
-    Intelligent Rules
+  
+  Real-time Monitoring
+  Role-Based Access
+  Intelligent Rules
 
   App Preview:
 
