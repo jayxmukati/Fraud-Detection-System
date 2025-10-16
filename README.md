@@ -14,7 +14,7 @@ Fraud Detection System
 
   About Our System:
 
-    This Fraud Detection System is an advanced, front-end demonstration built with modern web technologies to provide a seamless and secure experience, simulating a real-world financial security application.
+  This Fraud Detection System is an advanced, front-end demonstration built with modern web technologies to provide a seamless and secure experience, simulating a real-world financial security application.
 
-    Still working on the project...
-    Final project with include API, SQL Database and Java algorithms in backend.
+  Still working on the project...
+  Final project with include API, SQL Database and Java algorithms in backend.
